@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
+  "name": "블로그 AI 검사기",
   "description": "AI 기반 크롬 확장 프로그램을 통해 블로그 글의 논리적 및 사실 오류 검증 ",
   "version": "1.0.0",
   "action": {
